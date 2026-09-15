@@ -1,0 +1,21 @@
+{
+  "name": "differ-puzzle-extraction",
+  "version": "1.0.0",
+  "description": "Complete puzzle dataset extraction from joe-brothers/differ",
+  "scripts": {
+    "extract": "ts-node scripts/extract-puzzle-dataset.ts"
+  },
+  "keywords": [
+    "differ",
+    "puzzle",
+    "dataset",
+    "extraction",
+    "coordinates"
+  ],
+  "author": "annoy666",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}

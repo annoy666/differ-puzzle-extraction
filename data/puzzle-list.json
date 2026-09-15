@@ -1,0 +1,14 @@
+[
+  {
+    "puzzleNumber": "000096",
+    "originalUrl": "https://differ-assets.joe-brothers.com/temp_image/000096.png",
+    "differentUrl": "https://differ-assets.joe-brothers.com/temp_image/000096_d.png",
+    "differenceCount": 10
+  },
+  {
+    "puzzleNumber": "000097",
+    "originalUrl": "https://differ-assets.joe-brothers.com/temp_image/000097.png",
+    "differentUrl": "https://differ-assets.joe-brothers.com/temp_image/000097_d.png",
+    "differenceCount": 10
+  }
+]

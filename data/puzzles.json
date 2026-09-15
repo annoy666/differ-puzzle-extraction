@@ -1,0 +1,44 @@
+[
+  {
+    "id": "019c6733-4d41-76f2-8500-7175a8a3b63d",
+    "puzzleNumber": "000096",
+    "path": "/temp_image/000096",
+    "extension": "png",
+    "originalUrl": "https://differ-assets.joe-brothers.com/temp_image/000096.png",
+    "differentUrl": "https://differ-assets.joe-brothers.com/temp_image/000096_d.png",
+    "sourceDifferenceCount": 10,
+    "sourceDifferences": [
+      {"id": "019c6733-4d41-76f2-8500-718501b766e7", "x": 0, "y": 0, "width": 36, "height": 60},
+      {"id": "019c6733-4d41-76f2-8500-71f09d1a4c8b", "x": 0, "y": 78, "width": 36, "height": 75},
+      {"id": "019c6733-4d41-76f2-8500-72a8ecc5dc5e", "x": 0, "y": 176, "width": 36, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-7370d89f7f50", "x": 198, "y": 0, "width": 51, "height": 67},
+      {"id": "019c6733-4d41-76f2-8500-741fd84f0e8e", "x": 198, "y": 79, "width": 51, "height": 86},
+      {"id": "019c6733-4d41-76f2-8500-75147202c5e4", "x": 198, "y": 177, "width": 51, "height": 52},
+      {"id": "019c6733-4d41-76f2-8500-75c7b7e78b33", "x": 52, "y": 67, "width": 64, "height": 38},
+      {"id": "019c6733-4d41-76f2-8500-768ee9c0d7c6", "x": 52, "y": 117, "width": 64, "height": 38},
+      {"id": "019c6733-4d41-76f2-8500-773fa00d9ef9", "x": 52, "y": 167, "width": 64, "height": 62},
+      {"id": "019c6733-4d41-76f2-8500-77dbfbdd8b93", "x": 146, "y": 0, "width": 62, "height": 50}
+    ]
+  },
+  {
+    "id": "019c6733-4d41-76f2-8500-722519383feb",
+    "puzzleNumber": "000097",
+    "path": "/temp_image/000097",
+    "extension": "png",
+    "originalUrl": "https://differ-assets.joe-brothers.com/temp_image/000097.png",
+    "differentUrl": "https://differ-assets.joe-brothers.com/temp_image/000097_d.png",
+    "sourceDifferenceCount": 10,
+    "sourceDifferences": [
+      {"id": "019c6733-4d41-76f2-8500-723c1ed16f41", "x": 36, "y": 72, "width": 88, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-72e5f8e9e20e", "x": 36, "y": 135, "width": 88, "height": 50},
+      {"id": "019c6733-4d41-76f2-8500-73b3cf3a5f19", "x": 36, "y": 0, "width": 88, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-7456a3c6e6ce", "x": 150, "y": 72, "width": 73, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-74ffdf37e24d", "x": 150, "y": 135, "width": 73, "height": 50},
+      {"id": "019c6733-4d41-76f2-8500-759f38b13a08", "x": 150, "y": 0, "width": 73, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-7644b0e5a30b", "x": 0, "y": 72, "width": 36, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-76d0c6e8c9f4", "x": 0, "y": 135, "width": 36, "height": 50},
+      {"id": "019c6733-4d41-76f2-8500-77797e6fc92f", "x": 0, "y": 0, "width": 36, "height": 51},
+      {"id": "019c6733-4d41-76f2-8500-781cd4c8ecd6", "x": 224, "y": 72, "width": 36, "height": 51}
+    ]
+  }
+]
